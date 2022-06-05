@@ -1,7 +1,0 @@
-
-.my-box {
-  box-sizing: border-box;
-	width: 200px;
-	border: 10px solid;
-	padding: 20px;
-}
